@@ -100,8 +100,8 @@ Developed **TechPark**, a smart parking prototype for real-time space detection 
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-malk97&show_icons=true&theme=tokyonight" alt="Malk's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=malk97&show_icons=true&theme=tokyonight" alt="Malk's GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malk97&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
 </p>
 
 ---
