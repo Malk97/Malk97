@@ -1,24 +1,71 @@
-<!-- Banner or intro -->
-<h1 align="center">Hi 👋, I'm <span style="color:#58a6ff;">Malk Al-Jarrah</span></h1>
-<h3 align="center">Data Scientist | Machine Learning Engineer | AI Developer</h3>
+<h1 align="center">Hi, I'm Malk Jarrah 👋</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7F7&center=true&vCenter=true&width=500&lines=Data+Scientist+%7C+AI+Engineer;MLOps+%26+Machine+Learning+Developer;Turning+Data+into+Intelligent+Solutions" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-### 👩‍💻 About Me
-🎓 **Computer Science Graduate (Yarmouk University, GPA: 3.8)**  
-💡 Passionate about applying **Artificial Intelligence and Machine Learning** to solve real-world challenges.  
-⚙️ Focused on **model development**, **data-driven solutions**, and **MLOps best practices**.  
-🚀 Constantly learning, building, and experimenting with cutting-edge technologies.
+### 🚀 About Me
+- 🎓 **Computer Science Graduate (Yarmouk University, GPA: 3.5)**
+- 💡 Passionate about applying **Artificial Intelligence and Machine Learning** to solve real-world challenges.  
+- 🌍 Building **AI-powered applications** with Streamlit, FastAPI.
+- 📊 Love transforming raw data into meaningful insights  
 
 ---
 
-### 🧠 Core Skills
-- **Languages:** Python, JavaScript, SQL  
-- **Frameworks:** Django, FastAPI, Streamlit  
-- **ML & AI:** Scikit-learn, TensorFlow, Hugging Face, OpenAI API  
-- **Data Tools:** Pandas, NumPy, MLflow, Jupyter Notebook  
-- **DevOps:** Docker, Git, GitHub Actions  
-- **Cloud:** AWS, GCP (Vertex AI, BigQuery)
+## 🛠️ Skills
+
+### 🐍 **Programming Languages**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+</p>
+
+---
+
+### 📚 **Python Libraries**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="70" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50"/>
+</p>
+
+---
+
+### 🧩 **Frameworks**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="50" height="50"/>
+</p>
+
+---
+
+### ⚙️ **MLOps & Tools**
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://github.com/Malk97/icon/blob/main/mlflow.svg" alt="MLflow" width="50" height="50"/>
+  <img src="https://github.com/Malk97/icon/blob/main/DVC.JPG" alt="DVC" width="50" height="50"/>
+</p>
+
+---
+
+### 🧠 **AI Tools**
+<p align="left">
+  <img src="https://github.com/Malk97/icon/blob/main/LangChain.jpg" alt="LangChain" width="50" height="50"/>
+  <img src="https://github.com/Malk97/icon/blob/main/huggingface.png" alt="Hugging Face" width="50" height="50"/>
+  <img src="https://github.com/Malk97/icon/blob/main/AI%20API.png" alt="Gemini" width="50" height="50"/>
+</p>
 
 ---
 
@@ -70,56 +117,10 @@
 
 ---
 
-#### 🧾 Resume Dataset Categorization  
-**Apr–May 2024 | Tahaluf Al Emarat Technical Solutions**  
-- Classified 2,400+ resumes into job categories.  
-- Applied text cleaning, vectorization, and supervised ML models.
-
----
-
-#### 🚗 Smart and Safe Parking System  
-**Sep 2022–Feb 2023 | Yarmouk University**  
-- Designed “TechPark”, a smart IoT-based parking solution.  
-- Integrated real-time monitoring and safety alerts with a web admin panel.
-
----
-
-### 🧰 Tools I Use
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" style="margin-right:10px;" />
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="40" style="margin-right:10px;" />
-  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" style="margin-right:10px;" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" style="margin-right:10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" alt="OpenAI" width="40" style="margin-right:10px;" />
-  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="40" style="margin-right:10px;" />
-</p>
-
----
-
-### 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="Malk's GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" height="150"/>
-</p>
-
----
-
 ### 🌐 Connect with Me  
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
+📧 **Email:** [malk.jarrah21@gmail.com](mailto:malk.jarrah21@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/malk-jarrah](https://linkedin.com/in/malk-jarrah)  
-🐙 **GitHub:** [github.com/your-username](https://github.com/your-username)  
-🏅 **Kaggle:** [kaggle.com/your-profile](https://kaggle.com/your-profile)  
+🏅 **Kaggle:** [https://www.kaggle.com/malkjarrah](https://www.kaggle.com/malkjarrah)  
 
 ---
 
-⭐ *“Turning data into intelligence that powers the future.”*
