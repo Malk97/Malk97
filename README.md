@@ -76,7 +76,7 @@
 🏅 **Banking Dataset Analysis and Classification** — *5th Place*  
 🥉 **House Price Prediction Using Regression Techniques** — *3rd Place*  
 
----
+<!--
 
 ### 📂 Featured Projects  
 
@@ -115,8 +115,7 @@
 - Predicted residential prices using regression models.  
 - Extracted key price-driving factors through EDA and feature selection.
 
----
-
+-->
 ### 🌐 Connect with Me  
 📧 **Email:** [malk.jarrah21@gmail.com](mailto:malk.jarrah21@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/malk-jarrah](https://linkedin.com/in/malk-jarrah)  
