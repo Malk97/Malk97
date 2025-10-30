@@ -12,62 +12,25 @@
 - 🎓 **Computer Science Graduate (Yarmouk University, GPA: 3.5)**
 - 💡 Passionate about applying **Artificial Intelligence and Machine Learning** to solve real-world challenges.  
 - 🌍 Building **AI-powered applications** with Streamlit, FastAPI.
-- 📊 Love transforming raw data into meaningful insights  
+- 📊 Love transforming raw data into meaningful insights
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" alt="Girl coding pixel art" width="800" height="400"/>
+</p>
 
----
 
 ## 🛠️ Skills
 
-### 🐍 **Programming Languages**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-</p>
+| **Category** | **Tools & Technologies** |
+|:-------------:|:------------------------:|
+| 🐍 **Programming Languages** | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/></p> |
+| 📚 **Python Libraries** | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="70" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50"/></p> |
+| 🧩 **Frameworks** | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/> <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="50" height="50"/></p> |
+| ⚙️ **MLOps & Tools** | <p align="center"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50" height="50"/> <img src="https://github.com/Malk97/icon/blob/main/mlflow.svg" alt="MLflow" width="50" height="50"/> <img src="https://github.com/Malk97/icon/blob/main/DVC.JPG" alt="DVC" width="50" height="50"/></p> |
+| 🧠 **AI Tools** | <p align="center"><img src="https://github.com/Malk97/icon/blob/main/LangChain.jpg" alt="LangChain" width="50" height="50"/> <img src="https://github.com/Malk97/icon/blob/main/huggingface.png" alt="Hugging Face" width="50" height="50"/> <img src="https://github.com/Malk97/icon/blob/main/AI%20API.png" alt="Gemini" width="50" height="50"/></p> |
+
 
 ---
 
-### 📚 **Python Libraries**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="70" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50"/>
-</p>
-
----
-
-### 🧩 **Frameworks**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/>
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="50" height="50"/>
-</p>
-
----
-
-### ⚙️ **MLOps & Tools**
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://github.com/Malk97/icon/blob/main/mlflow.svg" alt="MLflow" width="50" height="50"/>
-  <img src="https://github.com/Malk97/icon/blob/main/DVC.JPG" alt="DVC" width="50" height="50"/>
-</p>
-
----
-
-### 🧠 **AI Tools**
-<p align="left">
-  <img src="https://github.com/Malk97/icon/blob/main/LangChain.jpg" alt="LangChain" width="50" height="50"/>
-  <img src="https://github.com/Malk97/icon/blob/main/huggingface.png" alt="Hugging Face" width="50" height="50"/>
-  <img src="https://github.com/Malk97/icon/blob/main/AI%20API.png" alt="Gemini" width="50" height="50"/>
-</p>
-
----
 
 ### 🏆 Kaggle Competitions Participation
 🥇 **COVID-19 mRNA Vaccine Degradation Using Shallow ML** — *2nd Place*  
