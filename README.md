@@ -28,24 +28,20 @@
 | ⚙️ **MLOps & Tools** | <p align="center"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50" height="50"/> <img src="https://github.com/Malk97/icon/blob/main/mlflow.svg" alt="MLflow" width="50" height="50"/> <img src="https://github.com/Malk97/icon/blob/main/DVC.JPG" alt="DVC" width="50" height="50"/></p> |
 | 🧠 **AI Tools** | <p align="center"><img src="https://github.com/Malk97/icon/blob/main/LangChain.jpg" alt="LangChain" width="50" height="50"/> <img src="https://github.com/Malk97/icon/blob/main/huggingface.png" alt="Hugging Face" width="50" height="50"/> <img src="https://github.com/Malk97/icon/blob/main/AI%20API.png" alt="Gemini" width="50" height="50"/></p> |
 
-
 ---
-
 
 ## 🎓 **Certifications**
 - [Google Skills Boost Profile](https://www.skills.google/public_profiles/bc1d4f35-d194-4566-98df-f75e924c33eb)
 - [Professional Machine Learning Engineer, Google](https://www.credly.com/badges/8607228d-e785-453f-8c3e-9aeb0ae4a1ae)
 
-
-
 ---
-
 ### 🏆 Kaggle Competitions Participation
-🥇 **COVID-19 mRNA Vaccine Degradation Using Shallow ML** — *2nd Place*  
-🥇 **Twitter Sentiment Analysis Using Shallow ML** — *3rd Place*  
-🥉 **Blood Cell Images Based Classification** — *5th Place*  
-🏅 **Banking Dataset Analysis and Classification** — *5th Place*  
-🥉 **House Price Prediction Using Regression Techniques** — *3rd Place*  
+- 🥇 **COVID-19 mRNA Vaccine Degradation Using Shallow ML** — *2nd Place*  
+- 🥇 **Twitter Sentiment Analysis Using Shallow ML** — *3rd Place*  
+- 🥉 **Blood Cell Images Based Classification** — *5th Place*  
+- 🏅 **Banking Dataset Analysis and Classification** — *5th Place*  
+- 🥉 **House Price Prediction Using Regression Techniques** — *3rd Place*  
+
 ---
 <!--
 
