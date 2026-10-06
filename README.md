@@ -86,7 +86,7 @@
 📧 **Email:** [malk.jarrah21@gmail.com](mailto:malk.jarrah21@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/malk-jarrah](https://linkedin.com/in/malk-jarrah)  
 🏅 **Kaggle:** [https://www.kaggle.com/malkjarrah](https://www.kaggle.com/malkjarrah)  
-🏅 **Portofolio:** [Click](https://malk-portfolio.lovable.app)  
+🌐 **Portofolio:** [Click](https://malk-portfolio.lovable.app)  
 
 ---
 
